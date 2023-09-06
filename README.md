@@ -1,2 +1,2 @@
-# Reinforcement-Learning
-This repo is used for hands-on examples of Reinforcement Learning and MDP
+# Path Finding via Markov Decision Processes (MDPs)
+This repo presents a hands-on example of the optimal control problem of obstacle-avoiding path finding using MDPs.
